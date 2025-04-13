@@ -1,0 +1,40 @@
+body {
+front-family: arial, sans-serif;
+background-color: #f8f9fa
+margin: 0;
+padding: 0;
+}
+
+header {
+    background-color: #3a3ae2f9;
+color: #f8f9fa;
+padding: 20px;
+text-align: center;
+}
+
+header nav a {
+    color: #f8f9fa;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.apresentção {
+    background-color: #f8f9fa;
+    padding: 30px;
+    max-width: 600px;
+    margin: 40px auto;
+    text-align: center;
+    box-shadow: 0 0 15px rgba(rgb(0,0,0,0.1)
+    border-radius: 10px
+}
+
+.apresentação h1 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.apresentação p {
+    color: #555;
+    font-size: 18px
+}
